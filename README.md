@@ -9,7 +9,7 @@
 
 2. [Модель ресторана](https://github.com/LiyaNova/CodePracticeSwift/tree/main/AbstractRestaurant.playground).  
 **Задача**: Разработать модель ресторана, используя ООП. Создать абстракции, включив в них необходимые свойства и методы.  
-<ins>Реализованы</ins> 4 протокола: Ресторан, Сотрудник, Блюдо, Заказ, - также классы: Сотрудников, Блюд и Заказов и структура Хранилища для продуктов.
+<ins>Реализованы</ins> 4 протокола: Ресторан, Сотрудник, Блюдо, Заказ, - также классы Сотрудников, Блюд и Заказов и структура Хранилища для продуктов.
 
 3. [ПО для дилерского центра](https://github.com/LiyaNova/CodePracticeSwift/tree/main/DealerCenterFunctionality.playground).   
 **Задача**: Разработать программное обеспечение для дилерских центров по продаже автомобилей.  
@@ -25,11 +25,11 @@
 <ins>Implemented</ins> using different types of collections (dictionary, array+array, dictionary+array).
 
 2. [RestaurantModel](https://github.com/LiyaNova/CodePracticeSwift/tree/main/AbstractRestaurant.playground).  
-**Task**: Design a restaurant model using OOP. Create abstractions, necessary properties and methods.  
-<ins>Implemented</ins> 4 protocols: Restaurant, Employee, Dish, Order, also classes of Employees, Dishes and Orders and the struct and confuguration of Storage for foodstuff.
+**Task**: Design a restaurant model using OOP. Create abstractions, properties and methods.  
+<ins>Implemented</ins> 4 protocols: Restaurant, Employee, Dish, Order, also the classes of Employees, Dishes and Orders and the struct and confuguration of Storage for foodstuff.
 
 3. [CarDealerCenter software](https://github.com/LiyaNova/CodePracticeSwift/tree/main/DealerCenterFunctionality.playground).  
 **Task**: Develop software for car dealer center.  
-<ins>Implemented</ins> car and dealership protocols, a car struct and a dealership class with the necessary properties and methods.  
-Added extensions with methods that can thow errors.
+<ins>Implemented</ins> car and dealership protocols, a car struct and a dealership class with properties and methods.  
+Added the extensions with methods that can thow errors.
 
